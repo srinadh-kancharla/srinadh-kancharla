@@ -12,7 +12,7 @@ AI Engineer and Full Stack Developer
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=07EEF2&width=435&lines=Srinadh%20Kancharla;FastAPI%20%7C%20Redis%20%7C%20RestAPI;Vlogging&center=true&vCenter=true&repeat=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=07EEF2&width=435&lines=Cuda%20Programming;FastAPI%20%7C%20RestAPI%20%7C%20Redis;Research;Python%20%7C%20C%2B%2B%20%7C%20C;Computer%20Vision&center=true&vCenter=true&repeat=true)
 
 </div>
 
