@@ -18,7 +18,7 @@ AI Engineer and Full Stack Developer
 
 ## 💻 About Me
 
-- 🔭 I'm currently pursuing my B.Tech in **Artificial Intelligence & Data Science** at :contentReference[oaicite:0]{index=0}, Vaddeswaram  
+- 🔭 I'm currently pursuing my B.Tech in **Artificial Intelligence & Data Science** at KL University, Vaddeswaram  
 - 🤖 Passionate about building intelligent systems, scalable applications, and solving real-world problems using AI & Data  
 - 🌱 Currently learning **CUDA**, **AWS Cloud Practitioner**, and exploring **Data Engineering & Machine Learning workflows**  
 - 💡 Interested in **Full Stack Development**, **Cloud Computing**, and **AI-driven applications**  
