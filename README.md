@@ -18,12 +18,19 @@ AI Engineer and Full Stack Developer
 
 ## **💻 About Me**
 - 🔭 I'm currently pursuing my B.Tech in Artificial Intelligence & Data Science at KL University, Vaddesewaram.
-- 🌱 I'm currently learning Cuda,AWS CP,
+- 🌱 I'm currently learning Cuda, AWS CP
 - 📫 How to reach me [Portfolio](https://srinadh-kancharla.github.io/my-portfolio/)
 
 ## **⚒️ Skills**
 ### **Programming Languages**
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"></td>
+  </tr>
+</table>
 
 ### **Frontend Development**
 <div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
