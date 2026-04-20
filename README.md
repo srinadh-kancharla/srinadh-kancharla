@@ -60,6 +60,7 @@ AI Engineer and Full Stack Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" style="margin-right:10px;" />
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/github-actions.svg" width="60" />
 </p>
+
 ### **Backend as a Service(BaaS)**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="60" style="margin-right:10px;" />
@@ -76,7 +77,7 @@ AI Engineer and Full Stack Developer
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="60" />
 </p>
-## **📊 Analytics & Statistics**
+### **📊 Analytics & Statistics**
 
 <div align="center">
 
