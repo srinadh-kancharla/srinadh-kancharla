@@ -16,16 +16,17 @@ AI Engineer and Full Stack Developer
 
 </div>
 
-## **💻 About Me**
--🔭 I'm currently pursuing my B.Tech in Artificial Intelligence & Data Science at KL University, Vaddeswaram.
--🤖 Passionate about building intelligent systems, scalable applications, and solving real-world problems using AI & Data.
--🌱 Currently learning CUDA, AWS Cloud Practitioner, and exploring Data Engineering & Machine Learning workflows.
--💡 Interested in Full Stack Development, Cloud Computing, and AI-driven applications.
--🛠️ Skilled in Python, JavaScript, React, Node.js, and SQL (adjust if needed).
--🚀 Love creating clean, responsive, and performance-focused web applications.
--📊 Exploring Big Data tools, ETL pipelines, and cloud-based architectures.
-- 📫 How to reach me [Portfolio](https://srinadh-kancharla.github.io/my-portfolio/)
--⚡ Fun fact: I enjoy photography 📸, exploring tech trends, and building side projects
+## 💻 About Me
+
+- 🔭 I'm currently pursuing my B.Tech in **Artificial Intelligence & Data Science** at :contentReference[oaicite:0]{index=0}, Vaddeswaram  
+- 🤖 Passionate about building intelligent systems, scalable applications, and solving real-world problems using AI & Data  
+- 🌱 Currently learning **CUDA**, **AWS Cloud Practitioner**, and exploring **Data Engineering & Machine Learning workflows**  
+- 💡 Interested in **Full Stack Development**, **Cloud Computing**, and **AI-driven applications**  
+- 🛠️ Skilled in **Python, JavaScript, React, Node.js, and SQL**  
+- 🚀 Love creating clean, responsive, and performance-focused web applications  
+- 📊 Exploring **Big Data tools, ETL pipelines, and cloud-based architectures**  
+- 📫 How to reach me: [Portfolio](https://srinadh-kancharla.github.io/my-portfolio/)  
+- ⚡ Fun fact: I enjoy **photography 📸, exploring tech trends, and building side projects**
 
 ## **⚒️ Skills**
 ### **Programming Languages**
