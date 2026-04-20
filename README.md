@@ -77,6 +77,7 @@ AI Engineer and Full Stack Developer
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="60" />
 </p>
+
 ### **📊 Analytics & Statistics**
 
 <div align="center">
