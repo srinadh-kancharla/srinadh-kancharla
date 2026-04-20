@@ -10,9 +10,16 @@ AI Engineer and Full Stack Developer
 
 </div>
 
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=07EEF2&width=435&lines=Srinadh%20Kancharla;FastAPI%20%7C%20Redis%20%7C%20RestAPI;Vlogging&center=true&vCenter=true&repeat=true)
+
+</div>
+
 ## **💻 About Me**
 - 🔭 I'm currently working on B.Tech in Artificial Intelligence & Data Science at KL University, Vaddesewaram.
 - 🌱 I'm currently learning Cuda
+- 📫 How to reach me https://srinadh-kancharla.github.io/my-portfolio/
 
 ## **⚒️ Skills**
 ### **Programming Languages**
@@ -73,13 +80,6 @@ AI Engineer and Full Stack Developer
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=srinadh-kancharla&color=brightgreen" alt="Profile Views" />
-
-</div>
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=srinadh-kancharla&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
