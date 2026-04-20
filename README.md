@@ -31,26 +31,51 @@ AI Engineer and Full Stack Developer
 </p>
 
 ### **Frontend Development**
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" />
+</p>
 
 ### **AI/ML**
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/hugging-face-icon.svg" alt="Hugging Face" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="60" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" style="margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/hugging-face-icon.svg" width="60" />
+</p>
 
 ### **Database**
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" />
+</p>
 
 ### **Devops**
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="(GCP)" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/github-actions.svg" alt="GitHub Actions" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" style="margin-right:10px;" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/github-actions.svg" width="60" />
+</p>
 ### **Backend as a Service(BaaS)**
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="60" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="60" />
+</p>
 
 ### **Framework**
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="60" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" />
+</p>
 
 ### **Software**
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="60" />
+</p>
 ## **📊 Analytics & Statistics**
 
 <div align="center">
