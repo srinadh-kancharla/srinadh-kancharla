@@ -17,9 +17,9 @@ AI Engineer and Full Stack Developer
 </div>
 
 ## **💻 About Me**
-- 🔭 I'm currently working on B.Tech in Artificial Intelligence & Data Science at KL University, Vaddesewaram.
-- 🌱 I'm currently learning Cuda
-- 📫 How to reach me https://srinadh-kancharla.github.io/my-portfolio/
+- 🔭 I'm currently pursuing my B.Tech in Artificial Intelligence & Data Science at KL University, Vaddesewaram.
+- 🌱 I'm currently learning Cuda,AWS CP,
+- 📫 How to reach me [Portfolio](https://srinadh-kancharla.github.io/my-portfolio/)
 
 ## **⚒️ Skills**
 ### **Programming Languages**
